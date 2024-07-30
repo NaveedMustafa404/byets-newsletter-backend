@@ -1,0 +1,10 @@
+
+/venv
+
+# /*/__pycache__
+# /*/migrations/__pycache__
+# /media
+# # .env
+# # sample.py
+# # /authentication/migrations
+# # /authentication/migrations
